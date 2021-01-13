@@ -1,0 +1,17 @@
+*.rmd
+# *.md
+*.tex
+*.yml
+*.html
+*.css
+*.js
+*.log
+*.bib
+
+.history/
+.vscode/
+.Rproj.user
+.RData
+.Rhistory
+
+*.log
